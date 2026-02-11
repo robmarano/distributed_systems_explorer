@@ -1,0 +1,5 @@
+{
+  "name": "ECE 465 - Distributed Systems Lab",
+  "description": "Interactive visualization of distributed systems concepts: IPC, Threading, and Sockets.",
+  "requestFramePermissions": []
+}
